@@ -1,0 +1,23 @@
+
+Question : kk 
+Answer : I'm sorry, I don't understand what you're asking. Please try rephrasing your question.
+Question : kk 
+Answer : I'm sorry, I don't understand what you're asking. Please try rephrasing your question.
+Question : what is python 
+Answer : Python is a programming language that is widely used for creating web applications, data science, artificial intelligence, and more.
+Question : what is physics 
+Answer : Physics is the study of the fundamental principles governing the natural world. It covers a wide range of topics, from the smallest particles to the largest structures in the universe.
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, and properties of matter, as well as the changes it undergoes.
+Question : what is kinmatics 
+Answer : Kinetics is the study of the motion of objects. It covers a wide range of topics, from the motion of particles to the motion of galaxies.
+Question : what is dipole? 
+Answer : A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.
+Question : what is value of electrons? 
+Answer : The value of electrons is not well defined, as they are constantly in motion and their exact location cannot be determined.
+Question : is kinmatecis is important for me 
+Answer : I'm sorry, I don't understand what you're asking. Please try rephrasing your question.
+Question : & "C:/Program Files/Python311/python.exe" "e:/AI jarvis py tutorial/Brain/AIBrain.py" 
+Answer : I'm sorry, I don't understand what you're asking. Please try rephrasing your question.
+Question : whai is water? 
+Answer : Water is a substance that is essential for life. It is made up of hydrogen and oxygen atoms, and it is a key component of the Earth's oceans, rivers, and lakes.
